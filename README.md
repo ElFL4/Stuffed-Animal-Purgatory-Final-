@@ -17,3 +17,6 @@ BUT, from this project I've had the opportunity to do a lot, like:
 - Panic (a bit, sorry!)
 
 This game will (hopefully) be up on itch.io when it is completed. Apologies for the delay and issues!
+
+![image](https://github.com/user-attachments/assets/20e2bd5c-d136-44c7-b9f9-3385cdee0ff9)
+
