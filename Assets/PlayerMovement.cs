@@ -6,6 +6,12 @@ using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
+// The two links below helped me greatly with this project.
+// Game Code Library's "Complete Unity 2D Platformer Tutorial – Easy for Beginners 2024" Tutorial
+// https://www.youtube.com/watch?v=Pkc4A1ukbJU
+// Pandemonium's "Unity 2D Platformer for Complete Beginners" Tutorial
+// https://www.youtube.com/watch?v=TcranVQUQ5U
+
 public class PlayerMovement : MonoBehaviour
 {
     public Rigidbody2D rb;
